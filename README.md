@@ -14,7 +14,7 @@ Detect who use your wifi.It can easily scan your wifi and see how many people or
 ### Installation ###
 
 <ul>
-<li><a href="https://www.termux.com">Termux</li>
+<li><a href="https://termux.com/">Termux</li>
 <li><a href="https://en.m.wikipedia.org/wiki/Shell_script">Shell Script</li>
 </ul>
 
