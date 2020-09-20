@@ -7,7 +7,7 @@
 
 ![wifi](https://user-images.githubusercontent.com/69615463/93719307-6b7fcc80-fba3-11ea-93f8-e01842af74c4.gif)
 
-                 Wifi User Detect
+          Wifi User Detect
 
 Detect who use your wifi.It can easily scan your wifi and see how many people or devices connected to your wifi router such as tplink/tp-link router, dlink router, netgear router or huawei router etc. 
 
